@@ -12,6 +12,7 @@ body{
 }
 
 header {
+    display: flex;
     background: #89B0AE;
 }
 
